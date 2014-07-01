@@ -1,0 +1,97 @@
+/* Flexible Slide-to-top Accordion Style*/
+.st-accordion{
+    width:100%;
+    margin: 0 auto;
+}
+.st-accordion ul li{
+    border-bottom: 1px solid #c7deef;
+    border-top:1px solid #fff;
+    overflow: hidden;
+    margin: 0px !important;
+}
+.st-accordion ul li:first-child{
+    border-top:none;
+}
+.st-accordion ul li > a{
+    text-shadow: 1px 1px 1px #fff;
+    font-size: 14px;
+    display: block;
+	position: relative;
+    line-height: 32px;
+	outline:none;
+    -webkit-transition:  color 0.2s ease-in-out;
+	-moz-transition:  color 0.2s ease-in-out;
+	-o-transition:  color 0.2s ease-in-out;
+	-ms-transition:  color 0.2s ease-in-out;
+	transition:  color 0.2s ease-in-out;
+}
+.st-accordion ul li > a span{
+	background: transparent url(../images/down.png) no-repeat center center;
+	text-indent:-9000px;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	top: 42%;
+	right: -26px;
+	margin-top: -7px;
+	opacity:0;
+	-webkit-transition:  all 0.2s ease-in-out;
+	-moz-transition:  all 0.2s ease-in-out;
+	-o-transition:  all 0.2s ease-in-out;
+	-ms-transition:  all 0.2s ease-in-out;
+	transition:  all 0.2s ease-in-out;
+}
+.st-accordion ul li > a:hover{
+    color: #1693eb;
+}
+.st-accordion ul li > a:hover span{
+	opacity:1;
+	right: 10px;
+}
+.st-accordion ul li.st-open > a{
+    color: #1693eb;
+}
+.st-accordion ul li.st-open > a span{
+	-webkit-transform:rotate(180deg);
+	-moz-transform:rotate(180deg);
+    transform:rotate(180deg);
+	right:10px;
+	opacity:1;
+}
+.st-content{
+    padding: 5px 0px 30px 0px;
+    overflow: hidden;
+}
+.st-content p{
+    font-size:  16px;
+    line-height:  28px;
+    padding: 0px 4px 15px 4px; 
+}
+.st-content img {
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  display: block;
+  margin: 20px 0;
+  max-width: 100%;
+  overflow: hidden;
+  width: 100%;
+}
+a, a:active, a:focus{outline: 0!important;}
+.aw_price_area p {
+    border: 0 none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    text-align: center;
+}
+.aw_price_area p span, .aw_price_area p a.button {
+  display: table;
+  font-weight: normal;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.aw_price_area p a.button {
+  height: 26px;
+  line-height: 26px;
+  padding: 0 20px !important;
+}
+.aw_price_area span.amount {margin-bottom: 10px;}
