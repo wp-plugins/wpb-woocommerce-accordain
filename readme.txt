@@ -12,8 +12,6 @@ This plugin will add a nice and animated Woocommerce product accordain.
 
 == Description ==
 
-### WPB Circliful by http://wpbean.com
-
 This plugin will add a nice and animated Woocommerce product accordain on your wordpress sidebar by shortcode. On accordain content it will show product details, image, price, add to cart button.
 
 Plugin Features
