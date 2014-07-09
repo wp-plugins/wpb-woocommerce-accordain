@@ -26,6 +26,20 @@ Plugin Features
 * Very Lightweight.
 & many More
 
+Pro Features
+
+* Accordain can be use by feature product or specific category product or specific product by product id.
+* ShortCode Attribute for control over how many product to show.
+* Product description, image, price and cart button show when expand.
+* Flat design and advance style setting panel so it will be match any theme.
+* Fully Responsive.
+* Nice easing effect. Effect can be change form plugin setting panel. More than 15 plus effect.
+* Online documentation and wordpress.org support forum for any kind of support.
+* Easy to use.
+* Very Lightweight, only 50KB.
+
+<a href="http://wpbean.com/product/wpb-woocommerce-product-accordain-pro/" title="wpbean woocommerce accordain">Go For Pro</a>
+
 Live Preview: http://demo.wpbean.com/wpb-woocommerce-accordain/
 
 == Installation ==
