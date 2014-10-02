@@ -1,4 +1,4 @@
-=== WPB woocommerce accordain ===
+=== WPB woocommerce accordion ===
 Contributors: wpbean
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWQBJMQX3LCNQ
 Tags: woocommerce,product,accordain,widget
