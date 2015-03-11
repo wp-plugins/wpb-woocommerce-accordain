@@ -15,10 +15,9 @@ This plugin will add a nice and animated Woocommerce product accordain.
 This plugin will add a nice and animated Woocommerce product accordain on your wordpress sidebar by shortcode. On accordain content it will show product details, image, price, add to cart button.
 
 *   [Upgrade to the Pro Version Now!&raquo;](http://wpbean.com/product/wpb-woocommerce-product-accordain-pro/ "Pro Version")
-*   [View a live demo &raquo;](http://demo.wpbean.com/wpb-woocommerce-accordain/)
+*   [View a live demo &raquo;](http://23.227.167.145/wpbean/demo1/wpb-woocommerce-accordion/)
 *   [Support &raquo;](http://wpbean.com/support/)
 *   [Online Documentation &raquo;](http://doc.wpbean.com/woo_pro_accordain/)
-*   [Wpbean is available for hire &raquo;](http://wpbean.com/wpbean-is-available-for-hire "Wpbean is available for hire")
 
 Plugin Features
 
