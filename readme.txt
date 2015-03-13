@@ -17,7 +17,7 @@ This plugin will add a nice and animated Woocommerce product accordain on your w
 *   [Upgrade to the Pro Version Now!&raquo;](http://wpbean.com/product/wpb-woocommerce-product-accordain-pro/ "Pro Version")
 *   [View a live demo &raquo;](http://23.227.167.145/wpbean/demo1/wpb-woocommerce-accordion/)
 *   [Support &raquo;](http://wpbean.com/support/)
-*   [Online Documentation &raquo;](http://doc.wpbean.com/woo_pro_accordain/)
+*   [Online Documentation &raquo;](http://mangotheme.com/doc/woo_pro_accordain/)
 
 Plugin Features
 
